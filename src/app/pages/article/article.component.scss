@@ -1,0 +1,15 @@
+.article {
+    padding: 1rem;
+    border: 1px solid #0000003d;
+    margin: 10px 3px;
+    background: white;
+    border-radius: 30px;
+    a{
+        font-size: 1.5rem;
+        transition: all 0.4s ease-in 0.2s;
+    }
+    &:hover {
+        background: rgba(176, 238, 228, 0.5);
+        cursor: pointer;
+    }
+}
