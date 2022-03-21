@@ -1,6 +1,6 @@
 # WikiSearch
 
-<img src="https://github.com/albertcolomer/buscador-wikipedia/blob/main/src/image/wikipedia2.png">
+<img src="https://github.com/albertcolomer/albertcolomer/blob/main/wikipedia2.png">
 
 
 
