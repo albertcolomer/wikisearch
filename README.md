@@ -6,15 +6,15 @@
 
 Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 13.0.3.
 
-Angular
- Components & templates.
- Directivas estructurales (ngIf / ngFor)
- @Input | @Ouput
- Creación y uso de servicios. 
- Creación y uso Observables: Propiedad valueChange 
- Uso de HttpClient, ReactiveForms, RxJs
+## Angular
+- Components & templates.
+- Directivas estructurales (ngIf / ngFor)
+- @Input | @Ouput
+- Creación y uso de servicios. 
+- Creación y uso Observables: Propiedad valueChange 
+- Uso de HttpClient, ReactiveForms, RxJs
 
-Manipulacion de data
+## Manipulacion de data
  Operadores (pluck / map / trim / debounceTime / distinctUntilChanged / filter)
 
 ## Server de desarrollo
